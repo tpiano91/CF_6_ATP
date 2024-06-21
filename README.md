@@ -52,4 +52,4 @@ Downloaded From: <https://www.kaggle.com/datasets/sijovm/atpdata/data>
 
 ## Tools Used
 ###### Jupyter Notebooks
-###### Libraries (pandas, numpy, os, matplotlib.pyplot, seaborn, scipy)
+###### Libraries (pandas, numpy, os, matplotlib.pyplot, seaborn, scipy, sklearn.model_selection, sklearn.linear_model, sklearn.metrics, train_test_split, accuracy_score, confusion_matrix, classification_report, LogisticRegession)
