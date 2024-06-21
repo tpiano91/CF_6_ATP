@@ -2,6 +2,7 @@
 How Important is the Serve in Tennis? (ATP Tour)
 ###### This project was completed as a requirement for the Data Analytics Program by CareerFoundry
 ## Project Overview
+###### This project is intended to be used for fun only by general tennis fans who enjoy match analyses
 ###### The serve is one of the most important strokes in tennis. The player who is serving usually has the advantage in a rally. Using data from the ATP Tour (professional men’s tennis), this project will explore three of the most common statistics, listed below, regarding the serve and their impact on the likelihood of winning a match:
 1) Percentage of Points Won on First Serve
 2) Percentage of Points Won on Second Serve
@@ -13,7 +14,7 @@ Project Questions:
 2) Did the impact of the most impactful serve stat (determined in question 1) change depending on the court surface?
 3) Novak Djokovic, Roger Federer and Rafael Nadal are collectively known as the BIg 3 and as of May 2024, they hold the record number of most Grand Slam Tournaments Won (Djokovic at 24, Nadal at 22, and Federer at 20). How did the Big 3’s serve statistics compare to average winners at their most successful Grand Slam Tournaments
 (which are the Australian Open, Wimbledon and Roland Garros, respectively)?
-###### The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. They assume they can't target everyone using the same methods, and they’re considering a targeted marketing strategy. They want to target different customers with applicable marketing campaigns to see whether they have an effect on the sale of their products. Your analysis will inform what this strategy might look like to ensure Instacart targets the right customer profiles with the appropriate products."
+
 
 ## Folders
 
