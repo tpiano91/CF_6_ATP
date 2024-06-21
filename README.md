@@ -6,8 +6,8 @@ How Important is the Serve in Tennis? (ATP Tour)
 1) Percentage of Points Won on First Serve
 2) Percentage of Points Won on Second Serve
 3) Percentage of First Serves in Play
-Second, this project will also explore how or if each of the three statistics varies between the three most commonly used court surfaces: grass, hard and clay.
-Last, this project will explore the serve statistics of Roger Federer, Rafael Nadal and Novak Djokovic at three of the four Grand Slam Tournaments; Wimbledon, Roland Garros and the Australian Open. These three players are arguably the three greatest players of all time and collectively known as the “Big 3”. Each of them has the record number of titles at one of the aforementioned Grand Slams (Federer at Wimbledon, Nadal at Roland Garros and Djokovic at the Australian Open). Each of these slams is also played on one of the three aforementioned surfaces. Their serve statistics will then be compared to the average match winner, taking court surface into consideration.
+###### Second, this project will also explore how or if each of the three statistics varies between the three most commonly used court surfaces: grass, hard and clay.
+###### Last, this project will explore the serve statistics of Roger Federer, Rafael Nadal and Novak Djokovic at three of the four Grand Slam Tournaments; Wimbledon, Roland Garros and the Australian Open. These three players are arguably the three greatest players of all time and collectively known as the “Big 3”. Each of them has the record number of titles at one of the aforementioned Grand Slams (Federer at Wimbledon, Nadal at Roland Garros and Djokovic at the Australian Open). Each of these slams is also played on one of the three aforementioned surfaces. Their serve statistics will then be compared to the average match winner, taking court surface into consideration.
 Project Questions:
 1) Of the three listed serve statistics, which has the greatest impact on the likelihood of winning a tennis match on the ATP Tour?
 2) Did the impact of the most impactful serve stat (determined in question 1) change depending on the court surface?
