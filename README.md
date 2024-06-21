@@ -20,33 +20,35 @@ Project Questions:
 
 ###### The following folders can be found in the master folder called, "Instacart Basket Analysis (no Data)"
 
-#### 01 Project Management
+#### 01 Project Overview
 
-###### Project Brief
+###### Project Overview
+
+#### 02 Data
+
+###### The original dataset and prepared/wrangled versions of the data
 
 #### 03 Scripts
 
-###### All executed codes divided by task objectives
+###### All executed codes divided by task objectives, including a folder of scripts that ended up being unused for the final presentation.
 
-#### 04 Analysis
+#### 04 Tableau
 
-###### All visualizations created on Jupyter Notebooks
-
-#### 05 Sent to Client
-
-###### Final Excel Report
+###### PDF of the Tableau Storyboard and an Outline of the Storyboard
 
 ## Data
 
-#### The dataset contains the following data tables
-###### Orders
-###### Orders_Products_Prior
-###### Products
-###### Customers
-###### Departments
+#### The original dataset contains the following data tables (there is also a folder containing unused JSON files that were not used for this project)
+###### matches
+###### players
+###### rankings
 
-##### Data Source: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from Kaggle 
-https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/ on 14.11.2023
+##### Data Source and Content
+“The data set contains the details about all the ATP matches played since 1968. The match statistics are available for matches since 1991.”
+This dataset is updated annually and also cites the following two credits: - <http://www.tennisabstract.com>
+- Jeff Sackman
+Link to Data
+Downloaded From: <https://www.kaggle.com/datasets/sijovm/atpdata/data>
 
 ## Tools Used
 ###### Jupyter Notebooks
