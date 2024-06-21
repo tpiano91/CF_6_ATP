@@ -15,6 +15,9 @@ Project Questions:
 3) Novak Djokovic, Roger Federer and Rafael Nadal are collectively known as the BIg 3 and as of May 2024, they hold the record number of most Grand Slam Tournaments Won (Djokovic at 24, Nadal at 22, and Federer at 20). How did the Big 3’s serve statistics compare to average winners at their most successful Grand Slam Tournaments
 (which are the Australian Open, Wimbledon and Roland Garros, respectively)?
 
+#### Link to Final Presentation on Tableau Public:
+
+https://public.tableau.com/app/profile/tristan.savella/viz/CareerFoundry6_7/HowImportantistheServeinTennis?publish=yes
 
 ## Folders
 
@@ -51,5 +54,6 @@ Link to Data
 Downloaded From: <https://www.kaggle.com/datasets/sijovm/atpdata/data>
 
 ## Tools Used
+###### Tableau
 ###### Jupyter Notebooks
 ###### Libraries (pandas, numpy, os, matplotlib.pyplot, seaborn, scipy, sklearn.model_selection, sklearn.linear_model, sklearn.metrics, train_test_split, accuracy_score, confusion_matrix, classification_report, LogisticRegession)
