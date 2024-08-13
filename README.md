@@ -58,7 +58,7 @@
 
 ![Coefficient Serve Stats](Master%20Folder%20ATP/04%20Tableau/images/coefficient_serve_stats_surface.png)
 
-#### Please see my Tableau Storyboard for more information regarding the "Big 3's" serve stats at their favorite slams.
+##### Please see my Tableau Storyboard for more information regarding the "Big 3's" serve stats at their favorite slams.
 
 ## Link to Final Presentation on Tableau Public:
 
