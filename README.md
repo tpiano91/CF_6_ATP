@@ -1,8 +1,9 @@
 # How Important is the Serve in Tennis? (ATP Tour)
 ###### This project was completed as a requirement for the Data Analytics Program by CareerFoundry
 ## Project Overview
-This project is intended to be used for fun only by general tennis fans who enjoy match analyses
+This project is intended to be used for fun only by general tennis fans who enjoy match analyses.
 The serve is one of the most important strokes in tennis. The player who is serving usually has the advantage in a rally. Using data from the ATP Tour (professional men’s tennis), this project will explore three of the most common statistics, listed below, regarding the serve and their impact on the likelihood of winning a match:
+### Serve Statistics
 ##### 1) Percentage of Points Won on First Serve
 ##### 2) Percentage of Points Won on Second Serve
 ##### 3) Percentage of First Serves in Play
@@ -16,11 +17,11 @@ Last, this project will explore the serve statistics of Roger Federer, Rafael Na
 ## Data
 
 The original dataset contains the following data tables (there is also a folder containing unused JSON files that were not used for this project)
-1) matches
-2) players
-3) rankings
+##### 1) matches
+##### 2) players
+##### 3) rankings
 
-#### Data Source and Content
+### Data Source and Content
 “The data set contains the details about all the ATP matches played since 1968. The match statistics are available for matches since 1991.”
 This dataset is updated annually and also cites the following two credits: - <http://www.tennisabstract.com>
 - Jeff Sackman
