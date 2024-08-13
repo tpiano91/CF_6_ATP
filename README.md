@@ -24,24 +24,23 @@
 ##### 3) rankings
 
 ### Data Source and Content
-“The data set contains the details about all the ATP matches played since 1968. The match statistics are available for matches since 1991.”
-This dataset is updated annually and also cites the following two credits: - <http://www.tennisabstract.com>
-- Jeff Sackman
-Link to Data
-Downloaded From: <https://www.kaggle.com/datasets/sijovm/atpdata/data>
+###### “The data set contains the details about all the ATP matches played since 1968. The match statistics are available for matches since 1991.” This dataset is updated annually and also cites the following two credits: - <http://www.tennisabstract.com> - Jeff Sackman
+###### Link to Data: Downloaded From: <https://www.kaggle.com/datasets/sijovm/atpdata/data>
 
 ## Data Cleaning and Preparation
 
 ###### Only the "matches" dataframe was used for this project. The following steps were performed and can be viewed in Notebook 1a. "ATP Initial Exploration Part 1" and Notebook 1b. "ATP Initial Exploration Part 2"
 
-##### Step 1. Renamed variables (See Section 3A in Notebok 1a.)
+##### Step 1. Renamed variables (See Section 3A in Notebook 1a.)
 ##### Step 2. Derived new variables - calculated the three serve statistics for this project for the winner and loser of each match (two of the three serve statistics - See Section 3B in Notebook 1a)
 ##### Step 3. Remove all data for matches played before the year 2000 (See Section 3C in Notebook 1a.)
 ##### Step 4. Create subsets of dataframe, separating matches played by court surface (grass, hard and clay courts - See Notebook 1b)
 
 ## Analysis and Insights
 
-##### Using logistic regression, 
+##### Using logistic regression, each of the three aforementioned serve statistics were tested to see their correlation with the likelihood of winning a match on the ATP Tour. The results indicate a weak correlation for both percentage of points won on first and second serve (0.13% and 0.10% respectively), and no correlation between a player's first serve percentage (0.04%).
+
+![Coefficient Serve Stats](Master%20Folder%20ATP/04%20Tableau/coefficient_serve_stats.png)
 
 ## Link to Final Presentation on Tableau Public:
 
