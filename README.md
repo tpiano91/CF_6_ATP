@@ -38,9 +38,18 @@
 
 ## Analysis and Insights
 
+##### First Insights for Serve Stats by Court Surface 
+###### 1. The winning players won a higher percentage of points behind their first serves on grass courts (78.7%), followed by hard courts (77.2%), then clay courts (73.6%); there is a noticeably wider gap between clay courts and the other two surfaces
+###### 2. The winning players also won a higher percentage of points behind their second serves on grass courts (56.9%), followed by hard courts (56.4%), then clay courts (55.8%).
+###### 3. The winning player's percentage of points won behind their first serves varied greater depending on court surface than that of points won behind their second serve
+
+![Coefficient Serve Stats](Master%20Folder%20ATP/04%20Tableau/images/serve_stats_by_surface.png)
+
 ##### Using logistic regression, each of the three aforementioned serve statistics were tested to see their correlation with the likelihood of winning a match on the ATP Tour. The results indicate a weak correlation for both percentage of points won on first and second serve (0.13% and 0.10% respectively), and no correlation between a player's first serve percentage (0.04%).
 
 ![Coefficient Serve Stats](Master%20Folder%20ATP/04%20Tableau/images/coefficient_serve_stats.png)
+
+##### The next step was to see if/how these correlation coefficients changed depending on court surface. 
 
 ## Link to Final Presentation on Tableau Public:
 
