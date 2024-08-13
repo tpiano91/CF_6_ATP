@@ -40,7 +40,7 @@
 
 ##### Using logistic regression, each of the three aforementioned serve statistics were tested to see their correlation with the likelihood of winning a match on the ATP Tour. The results indicate a weak correlation for both percentage of points won on first and second serve (0.13% and 0.10% respectively), and no correlation between a player's first serve percentage (0.04%).
 
-![Coefficient Serve Stats](Master%20Folder%20ATP/04%20Tableau/coefficient_serve_stats.png)
+![Coefficient Serve Stats](Master%20Folder%20ATP/04%Tableau/coefficient_serve_stats.png)
 
 ## Link to Final Presentation on Tableau Public:
 
