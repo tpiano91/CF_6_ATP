@@ -14,13 +14,29 @@ Project Questions:
 3) Novak Djokovic, Roger Federer and Rafael Nadal are collectively known as the BIg 3 and as of May 2024, they hold the record number of most Grand Slam Tournaments Won (Djokovic at 24, Nadal at 22, and Federer at 20). How did the Big 3’s serve statistics compare to average winners at their most successful Grand Slam Tournaments
 (which are the Australian Open, Wimbledon and Roland Garros, respectively)?
 
-#### Link to Final Presentation on Tableau Public:
+## Data
+
+#### The original dataset contains the following data tables (there is also a folder containing unused JSON files that were not used for this project)
+###### matches
+###### players
+###### rankings
+
+##### Data Source and Content
+“The data set contains the details about all the ATP matches played since 1968. The match statistics are available for matches since 1991.”
+This dataset is updated annually and also cites the following two credits: - <http://www.tennisabstract.com>
+- Jeff Sackman
+Link to Data
+Downloaded From: <https://www.kaggle.com/datasets/sijovm/atpdata/data>
+
+## Analysis and Insights
+
+## Link to Final Presentation on Tableau Public:
 
 https://public.tableau.com/app/profile/tristan.savella/viz/CareerFoundry6_7/HowImportantistheServeinTennis?publish=yes
 
 ## Folders
 
-###### The following folders can be found in the master folder called, "Instacart Basket Analysis (no Data)"
+###### The following folders can be found in the master folder called, "Master Folder ATP"
 
 #### 01 Project Overview
 
@@ -37,20 +53,6 @@ https://public.tableau.com/app/profile/tristan.savella/viz/CareerFoundry6_7/HowI
 #### 04 Tableau
 
 ###### PDF of the Tableau Storyboard and an Outline of the Storyboard
-
-## Data
-
-#### The original dataset contains the following data tables (there is also a folder containing unused JSON files that were not used for this project)
-###### matches
-###### players
-###### rankings
-
-##### Data Source and Content
-“The data set contains the details about all the ATP matches played since 1968. The match statistics are available for matches since 1991.”
-This dataset is updated annually and also cites the following two credits: - <http://www.tennisabstract.com>
-- Jeff Sackman
-Link to Data
-Downloaded From: <https://www.kaggle.com/datasets/sijovm/atpdata/data>
 
 ## Tools Used
 ###### Tableau
