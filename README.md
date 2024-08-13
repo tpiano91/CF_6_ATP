@@ -1,5 +1,4 @@
-# CF_6_ATP
-How Important is the Serve in Tennis? (ATP Tour)
+# How Important is the Serve in Tennis? (ATP Tour)
 ###### This project was completed as a requirement for the Data Analytics Program by CareerFoundry
 ## Project Overview
 ###### This project is intended to be used for fun only by general tennis fans who enjoy match analyses
