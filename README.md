@@ -17,11 +17,11 @@
 
 ## Data
 
-##### The original dataset contains the following data tables (there is also a folder containing unused JSON files that were not used for this project)
+###### The original dataset contains the following data tables (there is also a folder containing unused JSON files that were not used for this project)
 
-###### 1) matches
-###### 2) players
-###### 3) rankings
+##### 1) matches
+##### 2) players
+##### 3) rankings
 
 ### Data Source and Content
 “The data set contains the details about all the ATP matches played since 1968. The match statistics are available for matches since 1991.”
@@ -32,16 +32,16 @@ Downloaded From: <https://www.kaggle.com/datasets/sijovm/atpdata/data>
 
 ## Data Cleaning and Preparation
 
-##### Only the "matches" dataframe was used for this project. The following steps were performed and can be viewed in Notebook 1a. "ATP Initial Exploration Part 1" and Notebook 1b. "ATP Initial Exploration Part 2"
+###### Only the "matches" dataframe was used for this project. The following steps were performed and can be viewed in Notebook 1a. "ATP Initial Exploration Part 1" and Notebook 1b. "ATP Initial Exploration Part 2"
 
-###### Step 1. Renamed variables (See Section 3A in Notebok 1a.)
-###### Step 2. Derived new variables - calculated the three serve statistics for this project for the winner and loser of each match (two of the three serve statistics - See Section 3B in Notebook 1a)
-###### Step 3. Remove all data for matches played before the year 2000 (See Section 3C in Notebook 1a.)
-###### Step 4. Create subsets of dataframe, separating matches played by court surface (grass, hard and clay courts)
+##### Step 1. Renamed variables (See Section 3A in Notebok 1a.)
+##### Step 2. Derived new variables - calculated the three serve statistics for this project for the winner and loser of each match (two of the three serve statistics - See Section 3B in Notebook 1a)
+##### Step 3. Remove all data for matches played before the year 2000 (See Section 3C in Notebook 1a.)
+##### Step 4. Create subsets of dataframe, separating matches played by court surface (grass, hard and clay courts - See Notebook 1b)
 
 ## Analysis and Insights
 
-#### Using logistic regression, 
+##### Using logistic regression, 
 
 ## Link to Final Presentation on Tableau Public:
 
