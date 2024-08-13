@@ -28,6 +28,13 @@ This dataset is updated annually and also cites the following two credits: - <ht
 Link to Data
 Downloaded From: <https://www.kaggle.com/datasets/sijovm/atpdata/data>
 
+## Data Cleaning and Preparation
+
+###### Only the "matches" dataframe was used for this project. The following steps were performed and can be viewed in Notebook 1a. "ATP Initial Exploration Part 1"
+#### Step 1. Renamed variables (See Section 3A in Notebok 1a.)
+#### Step 2. Derived new variables - calculated the three serve statistics for this project for the winner and loser of each match (two of the three serve statistics - See Section 3B in Notebook 1a)
+#### Step 3. Remove all data for matches played before the year 2000 (See Section 3C in Notebook 1a.)
+
 ## Analysis and Insights
 
 ## Link to Final Presentation on Tableau Public:
