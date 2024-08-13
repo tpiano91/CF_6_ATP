@@ -60,6 +60,12 @@
 
 ##### Please see my Tableau Storyboard for more information regarding the "Big 3's" serve stats at their favorite slams.
 
+## Further Recommendations
+
+###### 1. Serve stats alone cannot explain match outcomes - other datasets may exist which contain additional statistics (groundstroke winners, unforced errors, etc.)
+###### 2. Further exploration of which other elements are affected by court surface (use/effect of spin, rally length, etc.)
+###### 3. Only one of the three dataframes were used for this project - the other two dataframes contain additional, potentially insightful variables for further research (such as player's heights or rankings)
+
 ## Link to Final Presentation on Tableau Public:
 
 https://public.tableau.com/app/profile/tristan.savella/viz/CareerFoundry6_7/HowImportantistheServeinTennis?publish=yes
