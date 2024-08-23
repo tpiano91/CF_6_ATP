@@ -23,11 +23,11 @@
 
 ## Data
 
-###### The original dataset contains the following data tables (there is also a folder containing unused JSON files that were not used for this project)
+##### The original dataset contains the following data tables (there is also a folder containing unused JSON files that were not used for this project)
 
-##### 1) matches
-##### 2) players
-##### 3) rankings
+###### 1) matches
+###### 2) players
+###### 3) rankings
 
 ### Data Source and Content
 ###### “The data set contains the details about all the ATP matches played since 1968. The match statistics are available for matches since 1991.” This dataset is updated annually and also cites the following two credits: - <http://www.tennisabstract.com> - Jeff Sackman
