@@ -49,7 +49,6 @@
 ###### Explored relationships for main data frame and subsets (to get insights for each court surface)
 ##### Step 5. Data Wrangling for Logistic Regression (See Notbook 3A and 3B)
 ###### Created dataframe consisting of each match winner and loser's serve stats, and a new variable: 1 = match winner; 0 = match loser
-##### Step 6. Answer Project Questions
 
 ## Analysis and Insights
 
