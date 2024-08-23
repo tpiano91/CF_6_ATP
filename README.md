@@ -46,10 +46,12 @@
 #### Initial Exploration
 
 ##### Using a correlation heat map, I observed any relationships between the variables. I found the following:
-###### Strong negative correlation between a match winner's %1st serve points won and number of break points he faced (-0.542)
-###### Moderate negative correlation between a match winner's %2nd serve points won and number of break points he faced (-0.435)
-###### No correlation between a match winner's %1st serves in play and number of break points he faced (-0.084)
+###### 1. Strong negative correlation between a match winner's %1st serve points won and number of break points he faced (-0.542)
+###### 2. Moderate negative correlation between a match winner's %2nd serve points won and number of break points he faced (-0.435)
+###### 3. No correlation between a match winner's %1st serves in play and number of break points he faced (-0.084)
 ##### Hypothesis: Of the three statistics, a player's %1st serve points won has the strongest correlation/impact to whether or not a player will win the match.
+
+![Coefficient Serve Stats](Master%20Folder%20ATP/04%20Tableau/images/initial_correlations.png)
 
 #### First Insights for Serve Stats by Court Surface 
 ###### 1. The winning players won a higher percentage of points behind their first serves on grass courts (78.7%), followed by hard courts (77.2%), then clay courts (73.6%); there is a noticeably wider gap between clay courts and the other two surfaces
