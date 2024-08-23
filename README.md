@@ -15,6 +15,13 @@
 ##### 2) Did the impact of the most impactful serve stat (determined in question 1) change depending on the court surface?
 ##### 3) Novak Djokovic, Roger Federer and Rafael Nadal are collectively known as the BIg 3 and as of May 2024, they hold the record number of most Grand Slam Tournaments Won (Djokovic at 24, Nadal at 22, and Federer at 20). How did the Big 3’s serve statistics compare to average winners at their most successful Grand Slam Tournaments (which are the Australian Open, Wimbledon and Roland Garros, respectively)?
 
+## Tools/Skills Used
+###### Skills: Data Cleaning, Data Wrangling, Deriving New Variables, Project Designing, Logistic Regression
+###### Tableau
+###### Jupyter Notebooks
+###### Python (pandas, numpy, os, matplotlib.pyplot, seaborn, scipy, sklearn.model_selection, sklearn.linear_model, sklearn.metrics, train_test_split, accuracy_score, confusion_matrix, classification_report)
+
+
 ## Data
 
 ###### The original dataset contains the following data tables (there is also a folder containing unused JSON files that were not used for this project)
@@ -85,6 +92,18 @@
 
 https://public.tableau.com/app/profile/tristan.savella/viz/CareerFoundry6_7/HowImportantistheServeinTennis?publish=yes
 
+## Conclusions
+
+#### What I Learned
+##### This was my first experience designing my own project from a self-chosen dataset.
+##### Through this project, I practiced with deriving new variables in python, as the three serve statistics I wanted to explore were not in the original dataset
+##### This was my first attempt at logistic regression and creating a new dataframe/variable in order to perform the regression
+
+#### Next Steps
+##### Match wins cannot be determined by serve alone - it would be useful to research the impact of other statistics (such as winners, unforced errors, etc.) and how these variables differ across court surfaces
+##### Only one of the three available data frames were used for this project - there is potential for further research by using the other available data in this set (such as the impact of a player’s height on serve, or the correlation between player rankings and serves, etc.)
+
+
 ## Folders
 
 ###### The following folders can be found in the master folder called, "Master Folder ATP"
@@ -104,9 +123,3 @@ https://public.tableau.com/app/profile/tristan.savella/viz/CareerFoundry6_7/HowI
 #### 04 Tableau
 
 ###### PDF of the Tableau Storyboard and an Outline of the Storyboard
-
-## Tools/Skills Used
-###### Skills: Data Cleaning, Data Wrangling, Deriving New Variables, Project Designing
-###### Tableau
-###### Jupyter Notebooks
-###### Python (pandas, numpy, os, matplotlib.pyplot, seaborn, scipy, sklearn.model_selection, sklearn.linear_model, sklearn.metrics, train_test_split, accuracy_score, confusion_matrix, classification_report, LogisticRegession)
