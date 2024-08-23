@@ -105,7 +105,8 @@ https://public.tableau.com/app/profile/tristan.savella/viz/CareerFoundry6_7/HowI
 
 ###### PDF of the Tableau Storyboard and an Outline of the Storyboard
 
-## Tools Used
+## Tools/Skills Used
+###### Skills: Data Cleaning, Data Wrangling, Deriving New Variables, Project Designing
 ###### Tableau
 ###### Jupyter Notebooks
-###### Libraries (pandas, numpy, os, matplotlib.pyplot, seaborn, scipy, sklearn.model_selection, sklearn.linear_model, sklearn.metrics, train_test_split, accuracy_score, confusion_matrix, classification_report, LogisticRegession)
+###### Python (pandas, numpy, os, matplotlib.pyplot, seaborn, scipy, sklearn.model_selection, sklearn.linear_model, sklearn.metrics, train_test_split, accuracy_score, confusion_matrix, classification_report, LogisticRegession)
