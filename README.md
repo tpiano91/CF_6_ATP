@@ -31,12 +31,25 @@
 
 ###### Only the "matches" dataframe was used for this project. The following steps were performed and can be viewed in Notebook 1a. "ATP Initial Exploration Part 1" and Notebook 1b. "ATP Initial Exploration Part 2"
 
-##### Step 1. Renamed variables (See Section 3A in Notebook 1a.)
+##### Step 1. Data Cleaning and Prep (See Section 3A and 3C in Notebook 1a.)
+###### Removed data prior to 2000 (3C) and with missing statistics (3A) 
 ##### Step 2. Derived new variables - calculated the three serve statistics for this project for the winner and loser of each match (two of the three serve statistics - See Section 3B in Notebook 1a)
-##### Step 3. Remove all data for matches played before the year 2000 (See Section 3C in Notebook 1a.)
-##### Step 4. Create subsets of dataframe, separating matches played by court surface (grass, hard and clay courts - See Notebook 1b)
+##### Step 3. Create subsets of dataframe, separating matches played by court surface (grass, hard and clay courts - See Notebook 1b)
+##### Step 4. Initial Exploration of Relationships between Variables (See Notebook 2)
+###### Explored relationships for main data frame and subsets (to get insights for each court surface)
+##### Step 5. Data Wrangling for Logistic Regression (See Notbook 3A and 3B)
+###### Created dataframe consisting of each match winner and loser's serve stats, and a new variable: 1 = match winner; 0 = match loser
+##### Step 6. Answer Project Questions
 
 ## Analysis and Insights
+
+#### Initial Exploration
+
+##### Using a correlation heat map, I observed any relationships between the variables. I found the following:
+###### Strong negative correlation between a match winner's %1st serve points won and number of break points he faced (-0.542)
+###### Moderate negative correlation between a match winner's %2nd serve points won and number of break points he faced (-0.435)
+###### No correlation between a match winner's %1st serves in play and number of break points he faced (-0.084)
+##### Hypothesis: Of the three statistics, a player's %1st serve points won has the strongest correlation/impact to whether or not a player will win the match.
 
 #### First Insights for Serve Stats by Court Surface 
 ###### 1. The winning players won a higher percentage of points behind their first serves on grass courts (78.7%), followed by hard courts (77.2%), then clay courts (73.6%); there is a noticeably wider gap between clay courts and the other two surfaces
