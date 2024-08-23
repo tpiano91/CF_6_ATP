@@ -21,7 +21,6 @@
 ###### Jupyter Notebooks
 ###### Python (pandas, numpy, os, matplotlib.pyplot, seaborn, scipy, sklearn.model_selection, sklearn.linear_model, sklearn.metrics, train_test_split, accuracy_score, confusion_matrix, classification_report)
 
-
 ## Data
 
 ###### The original dataset contains the following data tables (there is also a folder containing unused JSON files that were not used for this project)
@@ -33,6 +32,10 @@
 ### Data Source and Content
 ###### “The data set contains the details about all the ATP matches played since 1968. The match statistics are available for matches since 1991.” This dataset is updated annually and also cites the following two credits: - <http://www.tennisabstract.com> - Jeff Sackman
 ###### Link to Data: Downloaded From: <https://www.kaggle.com/datasets/sijovm/atpdata/data>
+
+## Link to Tableau Storyboard:
+
+##### https://public.tableau.com/app/profile/tristan.savella/viz/CareerFoundry6_7/HowImportantistheServeinTennis?publish=yes
 
 ## Data Cleaning and Preparation
 
@@ -87,10 +90,6 @@
 ###### 1. Serve stats alone cannot explain match outcomes - other datasets may exist which contain additional statistics (groundstroke winners, unforced errors, etc.)
 ###### 2. Further exploration of which other elements are affected by court surface (use/effect of spin, rally length, etc.)
 ###### 3. Only one of the three dataframes were used for this project - the other two dataframes contain additional, potentially insightful variables for further research (such as player's heights or rankings)
-
-## Link to Final Presentation on Tableau Public:
-
-https://public.tableau.com/app/profile/tristan.savella/viz/CareerFoundry6_7/HowImportantistheServeinTennis?publish=yes
 
 ## Conclusions
 
