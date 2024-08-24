@@ -47,11 +47,11 @@
 ###### Calculated the three serve statistics for this project for the winner and loser of each match (See Notebook 1a Section 3B)
 ##### Step 3. Data Cleaning 2
 ###### Removed data from before year 2000 (See Notebook 1a Section 3C)
-##### Step 3. Create subsets of dataframe
+##### Step 4. Create subsets of dataframe
 ###### Subsets according to court surface (grass, hard and clay courts - See Notebook 1b)
-##### Step 4. Initial Exploration of Relationships between Variables
+##### Step 5. Initial Exploration of Relationships between Variables
 ###### Explored relationships for main data frame and subsets, to get insights for each court surface (See Notebook 2)
-##### Step 5. Data Wrangling for Logistic Regression 
+##### Step 6. Data Wrangling for Logistic Regression 
 ###### Created dataframe consisting of each match winner and loser's serve stats, and a new variable: 1 = match winner; 0 = match loser (See Notebook 3a and 3b)
 
 ## Analysis and Insights
