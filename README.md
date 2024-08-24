@@ -37,7 +37,7 @@
 
 ##### https://public.tableau.com/app/profile/tristan.savella/viz/CareerFoundry6_7/HowImportantistheServeinTennis?publish=yes
 
-## Data Cleaning and Preparation
+## Data Cleaning, Preparation and Wrangling
 
 ###### Only the "matches" dataframe was used for this project. 
 
