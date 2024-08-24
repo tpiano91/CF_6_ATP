@@ -39,7 +39,7 @@
 
 ## Data Cleaning and Preparation
 
-###### Only the "matches" dataframe was used for this project. The following steps were performed and can be viewed in Notebook 1a. "ATP Initial Exploration Part 1" and Notebook 1b. "ATP Initial Exploration Part 2"
+###### Only the "matches" dataframe was used for this project. 
 
 ##### Step 1. Data Cleaning and Prep (See Section 3A and 3C in Notebook 1a.)
 ###### Removed data prior to 2000 (3C) and with missing statistics (3A) 
