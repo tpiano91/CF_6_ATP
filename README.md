@@ -43,7 +43,8 @@
 
 ##### Step 1. Data Cleaning and Prep (See Section 3A and 3C in Notebook 1a.)
 ###### Removed data prior to 2000 (3C) and with missing statistics (3A) 
-##### Step 2. Derived new variables - calculated the three serve statistics for this project for the winner and loser of each match (two of the three serve statistics - See Section 3B in Notebook 1a)
+##### Step 2. Derived new variables - 
+###### Calculated the three serve statistics for this project for the winner and loser of each match (See Section 3B in Notebook 1a)
 ##### Step 3. Create subsets of dataframe, separating matches played by court surface (grass, hard and clay courts - See Notebook 1b)
 ##### Step 4. Initial Exploration of Relationships between Variables (See Notebook 2)
 ###### Explored relationships for main data frame and subsets (to get insights for each court surface)
