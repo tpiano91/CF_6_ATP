@@ -67,9 +67,9 @@
 ![Coefficient Serve Stats](Master%20Folder%20ATP/04%20Tableau/images/initial_correlations.png)
 
 #### First Insights for Serve Stats by Court Surface 
-###### 1. The winning players won a higher percentage of points behind their first serves on grass courts (78.7%), followed by hard courts (77.2%), then clay courts (73.6%); there is a noticeably wider gap between clay courts and the other two surfaces
-###### 2. The winning players also won a higher percentage of points behind their second serves on grass courts (56.9%), followed by hard courts (56.4%), then clay courts (55.8%).
-###### 3. The winning player's percentage of points won behind their first serves varied greater depending on court surface than that of points won behind their second serve
+###### 1. The winning players won a higher percentage of points behind their 1st serves on grass courts (78.7%), followed by hard courts (77.2%), then clay courts (73.6%); there is a noticeably wider gap between clay courts and the other two surfaces
+###### 2. The winning players also won a higher percentage of points behind their 2nd serves on grass courts (56.9%), followed by hard courts (56.4%), then clay courts (55.8%).
+###### 3. The winning player's % of 1st serves won varied greater depending on court surface than % of points won on their 2nd serve.
 
 ![Coefficient Serve Stats](Master%20Folder%20ATP/04%20Tableau/images/serve_stats_by_surface.png)
 
