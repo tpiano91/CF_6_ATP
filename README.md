@@ -99,11 +99,12 @@
 #### What I Learned
 ###### 1. This was my first experience designing my own project from a self-chosen dataset.
 ###### 2. Through this project, I practiced with deriving new variables in python, as the three serve statistics I wanted to explore were not in the original dataset
-###### 3. This was my first attempt at logistic regression and creating a new dataframe/variable in order to perform the regression
+###### 3. This was my first experience using any form of regression analysis
 
 #### Next Steps
-###### 1. Match wins cannot be determined by serve alone - it would be useful to research the impact of other statistics (such as winners, unforced errors, etc.) and how these variables differ across court surfaces
-###### 2. Only one of the three available data frames were used for this project - there is potential for further research by using the other available data in this set (such as the impact of a player’s height on serve, or the correlation between player rankings and serves, etc.)
+###### 1. Consider using a linear regression for this analysis to see the relationship between serve statistics and the likelihood of winning match (rather than predicting a binary outcome as with logistic regression)
+###### 2. Match wins cannot be determined by serve alone - it would be useful to research the impact of other statistics (such as winners, unforced errors, etc.) and how these variables differ across court surfaces
+###### 3. Only one of the three available data frames were used for this project - there is potential for further research by using the other available data in this set (such as the impact of a player’s height on serve, or the correlation between player rankings and serves, etc.)
 
 
 ## Folders
