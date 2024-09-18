@@ -62,7 +62,7 @@
 ###### 1. Strong negative correlation between a match winner's %1st serve points won and number of break points he faced (-0.542)
 ###### 2. Moderate negative correlation between a match winner's %2nd serve points won and number of break points he faced (-0.435)
 ###### 3. No correlation between a match winner's %1st serves in play and number of break points he faced (-0.084)
-##### Hypothesis: Of the three statistics, a player's %1st serve points won has the strongest correlation/impact to whether or not a player will win the match.
+##### Hypothesis: Of the three statistics, a player's % of 1st serve points won has the strongest correlation/impact to match win.
 
 ![Coefficient Serve Stats](Master%20Folder%20ATP/04%20Tableau/images/initial_correlations.png)
 
