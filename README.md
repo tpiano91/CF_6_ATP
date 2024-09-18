@@ -103,8 +103,9 @@
 
 #### Next Steps
 ###### 1. Consider using a linear regression for this analysis to see the relationship between serve statistics and the likelihood of winning match (rather than predicting a binary outcome as with logistic regression)
-###### 2. Match wins cannot be determined by serve alone - it would be useful to research the impact of other statistics (such as winners, unforced errors, etc.) and how these variables differ across court surfaces
-###### 3. Only one of the three available data frames were used for this project - there is potential for further research by using the other available data in this set (such as the impact of a player’s height on serve, or the correlation between player rankings and serves, etc.)
+###### 2. The analysis included data from all ATP matches, regardless of if matches were played best of 3 or 5 sets. Grand Slams are in the minority of tournaments that use the best of 5 format. It may be interesting to consider it the average statistics or correlations are different between the two formats (Best of 3 or 5 sets).
+###### 3. Match wins cannot be determined by serve alone - it would be useful to research the impact of other statistics (such as winners, unforced errors, etc.) and how these variables differ across court surfaces
+###### 4. Only one of the three available data frames were used for this project - there is potential for further research by using the other available data in this set (such as the impact of a player’s height on serve, or the correlation between player rankings and serves, etc.)
 
 
 ## Folders
